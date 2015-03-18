@@ -6,7 +6,9 @@ ES6 et les nouvelles API du JS = bien
 
 ### Utilisez es6 dès maintenant
 
-Intersection entre fonctionnalités et navigateurs à supporter.
+Fonctionnalités et navigateurs à supporter.
+
+<img src="img/supported-features.svg" style="height: 15em; vertical-align: middle; margin-bottom: 25px;" alt="Fonctionnalités" title="Fonctionnalités">
 
 [ES6 compatibility table](https://kangax.github.io/compat-table/es6/)
 
