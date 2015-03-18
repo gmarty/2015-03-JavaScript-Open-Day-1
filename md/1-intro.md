@@ -20,10 +20,13 @@
 
 ### ou pas...
 
+Note:
+Quartier Minato Mirai à Yokohama, Japon.
+
 ---
 
-[@g_marty](https://twitter.com/g_marty) Guillaume Marty
+[@g_marty](https://twitter.com/g_marty) - Guillaume Marty
 
 Je suis <img src="img/French.svg" style="height: .8em; vertical-align: middle;" alt="francais" title="francais"> et je vit en <img src="img/UK.svg" style="height: .8em; vertical-align: middle;" alt="Angleterre" title="Angleterre">
 
-Developpeur chez <img src="img/Mozilla.svg" style="height: .8em; vertical-align: middle; margin-bottom: 25px;" alt="Mozilla" title="Mozilla"> sur <img src="img/Firefox-OS.svg" style="height: 1.7em; vertical-align: middle; margin-bottom: 25px;" alt="Firefox OS" title="Firefox OS">
+Développeur chez <img src="img/Mozilla.svg" style="height: .8em; vertical-align: middle; margin-bottom: 25px;" alt="Mozilla" title="Mozilla"> sur <img src="img/Firefox-OS.svg" style="height: 1.7em; vertical-align: middle; margin-bottom: 25px;" alt="Firefox OS" title="Firefox OS">

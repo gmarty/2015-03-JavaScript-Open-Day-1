@@ -48,3 +48,9 @@ Moins de confusions.
 Et ce n'est que pour le JavaScript
 
 (imaginez pour le CSS)
+
+---
+
+## Merci
+
+[@g_marty](https://twitter.com/g_marty) - Guillaume Marty

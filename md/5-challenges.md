@@ -8,7 +8,7 @@ es6 va casser ton workflow dans ~100% des cas
 
 ---
 
-Tous les outils ne le supporte pas:
+Tous les outils ne le supportent pas:
 
 * IDE
 * Linter
