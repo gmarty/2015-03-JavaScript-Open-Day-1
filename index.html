@@ -276,16 +276,19 @@
         toggleBtn.classList.add('hide');
       }
 
+      reveal.classList.remove('before');
+      reveal.classList.remove('after');
+
       if (!currentSlide.dataset.parsed) {
         var elements = currentSlide.querySelectorAll('del,ins');
-        reveal.classList.remove('before');
-        reveal.classList.remove('after');
         [].slice.call(elements).forEach(function(element) {
           element.style.width = element.clientWidth + 'px';
         });
-        reveal.classList.add('before');
         currentSlide.dataset.parsed = 'true';
       }
+
+      // Let's always reset the state to es5 on new slide.
+      reveal.classList.add('before');
     });
 
     document.addEventListener('keydown', function(evt) {
