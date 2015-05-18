@@ -82,6 +82,6 @@ Total contrôle sur l'environement
 
 \+ Pas de compatibilité navigateurs à gérer
 
-\-------------------------------------------
+<hr style="border: 2px solid white; width: 50%;">
 
 = Utilisation à 100% du potentiel du JavaScript

@@ -23,13 +23,10 @@ Support partiel ou anciens drafts.
 
 ---
 
-Travailler sous plusieurs environnements est complexe.
-
-> Ex: App sous Firefox OS
->
-> Build system sous Node.JS
+Il est difficile de travailler sous plusieurs environnements en même temps
 
 Note:
+Par exemple si l'app tourne sous Firefox OS, mais le système de build utilise Node.JS.
 Code plus difficile à partager.
 Mental switch nécessaire.
 
@@ -41,4 +38,4 @@ C'est facile de ne pas utiliser es6 par
 
 * ignorance,
 * paresse ou
-* habitude.
+* habitude
